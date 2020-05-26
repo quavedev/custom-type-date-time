@@ -1,6 +1,6 @@
 # quave:custom-type-date-time
 
-`quave:custom-type-date-time` is a Meteor package that provides a data time type for GraphQL and EJSON.
+`quave:custom-type-date-time` is a Meteor package that provides a date time type for GraphQL and EJSON.
 
 ## Why
 
